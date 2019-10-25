@@ -3,4 +3,6 @@ panini
 	primavera
 	vegetariano
 
+fritti
+
 Paninoteca Padovana
