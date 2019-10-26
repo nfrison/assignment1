@@ -4,5 +4,6 @@ panini
 	vegetariano
 
 fritti
+	arancini
 
 Paninoteca Padovana
