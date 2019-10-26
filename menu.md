@@ -4,5 +4,6 @@ panini
 	vegetariano
 
 fritti
+	olive_ascolane
 
 Paninoteca Padovana
